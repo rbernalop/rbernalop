@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile  👋
 ___
-I am a computer engineering student very interested in the whole world of programming. I am currently focusing on web programming, specifically with Spring Boot 🍃 as a framework in Back-end and ReactJS ⚛️ in Front-end. Nonetheless, I am always interested in learning new things and try to improve as much as possible.
+I am a computer engineering student very interested in the whole world of programming. I am currently focused on web programming, specifically with Spring Boot 🍃 as a framework in Back-end and ReactJS ⚛️ in Front-end. Nonetheless, I am always interested in learning new things and try to improve as much as possible.
 - 🔭 I’m currently working on [Bosonit](https://bosonit.com/).
 - 🌱 I’m currently learning Microservices, Domain Driven Design and Amazon Web Services.
 - 📫 How to reach me: 
