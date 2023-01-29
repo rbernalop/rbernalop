@@ -10,3 +10,7 @@ I am a computer engineering student very interested in the whole world of progra
 <a href="https://www.linkedin.com/in/rafael-bernabeu-lopez/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" height="40" />
 </a>
+
+## Stats
+[![rbernalop' GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbernalop)](https://github.com/rbernalop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbernalop&layout=compact&include_all_commits=true)](https://github.com/rbernalop)
