@@ -1,8 +1,8 @@
 ### Welcome to my GitHub profile  👋
 ___
 I am a computer engineer specialized in software engineering. I am currently focused specifically in [Spring Boot](https://spring.io/projects/spring-boot) 🍃 as Back-end framework and [ReactJS](https://reactjs.org/) ⚛️ in Front-end. Nonetheless, I am always interested in learning new things and try to improve as much as possible.
-- 🔭 Professionally I am working at [Metaenlace](https://metaenlace.com/).
-- 🌱 I’m currently learning about Microservices, Domain Driven Design and Amazon Web Services.
+- 🔭 Professionally I am working at [BKOOL ](https://www.bkool.com/).
+- 🌱 I also use Microservices, Domain Driven Design and Amazon Web Services.
 - 📫 How to reach me: 
 <a href="mailto:rafabernabeu3@gmail.com" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/clean-and-simple/153/Mail-512.png" height="40" />
