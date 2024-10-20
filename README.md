@@ -1,6 +1,6 @@
 <h2>Welcome to my GitHub profile  👋</h2>
 
-I am a computer engineer specialized in software engineering. 
+I am a computer engineer specialized in software development. 
 - 🍃 I am currently focused specifically in [Spring Boot](https://spring.io/projects/spring-boot) as Back-end framework.
 - ⚛️ I like to use [ReactJS](https://reactjs.org/) in Front-end.
 - 🔭 Professionally I am working at [BKOOL](https://www.bkool.com/).
