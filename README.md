@@ -27,16 +27,16 @@ I am a computer engineer specialized in software development.
     <tr>
         <td>
             <a href="https://www.mongodb.com" target="blank">
-                <img src="https://www.manualweb.net/img/logos/mongodb.png" height="40" />
+                <img align="left" src="https://www.manualweb.net/img/logos/mongodb.png" height="40" />
             </a>
             <a href="https://bitcoin.org" target="blank">
-                <img src="https://www.criptonoticias.com/wp-content/uploads/2020/03/BC_Logo_.png" height="40" />
+                <img align="left" src="https://www.criptonoticias.com/wp-content/uploads/2020/03/BC_Logo_.png" height="40" />
             </a>
             <a href="https://es.react.dev" target="blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" height="40" />
+                <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/250px-React.svg.png" height="40" />
             </a>
             <a href="https://nodejs.org/en" target="blank">
-                <img src="https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true" height="40" />
+                <img align="left" src="https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true" height="40" />
             </a>
         </td>
     </tr>
