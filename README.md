@@ -12,7 +12,7 @@ I am a computer engineer specialized in software development.
     <tr>
         <td rowspan="2">
             <p align="center">
-                <a href="https://betalking.app" target="_blank">
+                <a href="https://www.betalking.app" target="_blank">
                     <img src="https://www.betalking.app/logo.png" height="60" width="60" align="center" />                
                     betalking.app
                 </a>
