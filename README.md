@@ -13,7 +13,7 @@ I am a computer engineer specialized in software development.
         <td rowspan="2">
             <p align="center">
                 <a href="https://www.betalking.app" target="_blank">
-                    <img src="https://www.betalking.app/logo.png" height="60" width="60" align="center" />                
+                    <img src="https://www.betalking.app/assets/logo.png" height="60" width="60" align="center" />                
                     betalking.app
                 </a>
                 <ul>
@@ -35,13 +35,13 @@ I am a computer engineer specialized in software development.
     <tr>
         <td>
             <a href="https://www.postgresql.org/" target="blank">
-                <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="40" />
+                <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="40" />
             </a>
             <a href="https://reactnative.dev/" target="blank">
                 <img align="left" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" height="60" />
             </a>
             <a href="https://spring.io/projects/spring-boot" target="blank">
-                <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="40" />
+                <img align="left" src="https://www.clipartmax.com/png/middle/117-1171017_spring-logo-spring-framework-logo.png" height="40" />
             </a>
         </td>
     </tr>
@@ -49,7 +49,7 @@ I am a computer engineer specialized in software development.
         <td rowspan="2">
             <a href="https://ai4sats.com" target="_blank">
                 <p align="center">
-                    <img src="https://ai4sats.com/static/media/favicon-white-no-bg.4b5c83248d0d4e23c288.png" height="60" width="60" align="center" />                
+                    <!-- <img src="https://ai4sats.com/static/media/favicon-white-no-bg.4b5c83248d0d4e23c288.png" height="60" width="60" align="center" />                -->
                     ai4sats.com
                 </p>
             </a>
