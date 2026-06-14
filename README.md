@@ -12,6 +12,31 @@ I am a computer engineer specialized in software development.
     <tr>
         <td rowspan="2">
             <p align="center">
+                <a href="https://www.byesql.com" target="_blank">
+                    <img src="https://www.byesql.com/og-image.png" height="60" width="60" align="center" />                
+                    byesql.com
+                </a>
+            </p>
+        </td>
+        <td>
+            <p>
+                  ByeSQL is a web and desktop application that enables users to query databases using natural language. It also provides the ability to generate graphical visualizations from the retrieved data.                
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.postgresql.org/" target="blank">
+                <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="40" />
+            </a>
+            <a href="https://spring.io/projects/spring-boot" target="blank">
+                <img align="left" src="https://www.clipartmax.com/png/middle/117-1171017_spring-logo-spring-framework-logo.png" height="40" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2">
+            <p align="center">
                 <a href="https://www.betalking.app" target="_blank">
                     <img src="https://www.betalking.app/assets/logo.png" height="60" width="60" align="center" />                
                     betalking.app
